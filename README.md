@@ -1,6 +1,6 @@
-# Portfolio
+# Password-Generator
 
-I'm craete My Portfolio
+I'm craete My password generator
 
 ## 🔗 Demo
 
