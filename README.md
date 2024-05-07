@@ -1,8 +1,33 @@
-# React + Vite
+# Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+I'm craete My Portfolio
 
-Currently, two official plugins are available:
+## 🔗 Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+url: https://password-generator-web3.netlify.app/
+
+## 🛠 Installation
+
+Install my-project with npm
+
+1. To install
+```bash
+  git clone https://github.com/Santhosh1507/Password-Generator.git
+```
+2. install package
+```bash
+  npm install 
+```
+3. To install
+```bash
+  npm run dev
+```
+## Project Screenshots:
+![alt text](<Images/Screenshot 2024-05-07 082427.png>)
+
+![alt text](<Images/Screenshot 2024-05-07 082437.png>)
+
+![alt text](<Images/Screenshot 2024-05-07 082452.png>)
+
+
+
